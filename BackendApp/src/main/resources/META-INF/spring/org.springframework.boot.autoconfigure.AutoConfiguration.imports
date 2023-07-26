@@ -1,0 +1,3 @@
+com.minatodattebayo.thefourthhokagesir.config.ApplicationRepositoriesAutoConfiguration
+com.minatodattebayo.thefourthhokagesir.config.ApplicationTransactionManagersAutoConfig
+com.minatodattebayo.thefourthhokagesir.config.ApplicationProvidersAutoConfiguration
